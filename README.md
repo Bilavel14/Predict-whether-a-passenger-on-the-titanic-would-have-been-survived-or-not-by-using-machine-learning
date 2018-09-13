@@ -7,7 +7,7 @@ Titanic is a famous data set and its good for the experience to work with such k
 # Librarires uses
 ***
 
--import pandas as pd
+- import pandas as pd
 
 -import numpy as np
 
