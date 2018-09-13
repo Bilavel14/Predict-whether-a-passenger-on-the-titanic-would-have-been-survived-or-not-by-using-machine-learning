@@ -9,18 +9,17 @@ Titanic is a famous data set and its good for the experience to work with such k
 
 - import pandas as pd
 
--import numpy as np
+- import numpy as np
 
-import matplotlib.pyplot as plt
+- import matplotlib.pyplot as plt
 
-from matplotlib import pyplot as plt
-from matplotlib import style
+- from matplotlib import pyplot as plt
+- from matplotlib import style
 
-
-from sklearn import linear_model
-from sklearn.linear_model import LogisticRegression
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.linear_model import SGDClassifier
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.svm import SVC, LinearSVC
-from sklearn.naive_bayes import GaussianNB
+- from sklearn import linear_model
+- from sklearn.linear_model import LogisticRegression
+- from sklearn.ensemble import RandomForestClassifier
+- from sklearn.linear_model import SGDClassifier
+- from sklearn.neighbors import KNeighborsClassifier
+- from sklearn.svm import SVC, LinearSVC
+- from sklearn.naive_bayes import GaussianNB
